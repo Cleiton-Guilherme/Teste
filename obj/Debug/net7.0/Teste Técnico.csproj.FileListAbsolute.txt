@@ -1,0 +1,14 @@
+C:\Users\cleit\OneDrive\Documentos\Teste Técnico\bin\Debug\net7.0\Teste Técnico.exe
+C:\Users\cleit\OneDrive\Documentos\Teste Técnico\bin\Debug\net7.0\Teste Técnico.deps.json
+C:\Users\cleit\OneDrive\Documentos\Teste Técnico\bin\Debug\net7.0\Teste Técnico.runtimeconfig.json
+C:\Users\cleit\OneDrive\Documentos\Teste Técnico\bin\Debug\net7.0\Teste Técnico.dll
+C:\Users\cleit\OneDrive\Documentos\Teste Técnico\bin\Debug\net7.0\Teste Técnico.pdb
+C:\Users\cleit\OneDrive\Documentos\Teste Técnico\obj\Debug\net7.0\Teste Técnico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleit\OneDrive\Documentos\Teste Técnico\obj\Debug\net7.0\Teste Técnico.AssemblyInfoInputs.cache
+C:\Users\cleit\OneDrive\Documentos\Teste Técnico\obj\Debug\net7.0\Teste Técnico.AssemblyInfo.cs
+C:\Users\cleit\OneDrive\Documentos\Teste Técnico\obj\Debug\net7.0\Teste Técnico.csproj.CoreCompileInputs.cache
+C:\Users\cleit\OneDrive\Documentos\Teste Técnico\obj\Debug\net7.0\Teste Técnico.dll
+C:\Users\cleit\OneDrive\Documentos\Teste Técnico\obj\Debug\net7.0\refint\Teste Técnico.dll
+C:\Users\cleit\OneDrive\Documentos\Teste Técnico\obj\Debug\net7.0\Teste Técnico.pdb
+C:\Users\cleit\OneDrive\Documentos\Teste Técnico\obj\Debug\net7.0\Teste Técnico.genruntimeconfig.cache
+C:\Users\cleit\OneDrive\Documentos\Teste Técnico\obj\Debug\net7.0\ref\Teste Técnico.dll
